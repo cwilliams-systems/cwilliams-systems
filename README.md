@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi I'm Chris 👋
 
-<!--
-**cwilliams-systems/cwilliams-systems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a Computer Science Student focused on GPU Programming, Systems Programming and High Performance Computing
 
-Here are some ideas to get you started:
+Current Focus:
+C++ and low level programming
+CUDA/GPU programming (learning and upcoming projects)
+Computer architeture and performance optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects(in-progress):
+ML Accelerator(CUDA-based) Summer 2026
+GPU Kernel Optimization Library
+
+Coursework:
+Data Structures & Algorithms (C++)
+Calculus & Physics (building foundation for engineering work)
+Computer Science fundamentals
+
+Goals:
+Transfer into Computer Science at Colorado School of Mines
+Specialize in systems / GPU / ML infrastructure
+Intern in high-performance computing (NVIDIA target)
+
+LinkedIn profile: https://www.linkedin.com/in/christopher-williams-717526319/
+
+
+
