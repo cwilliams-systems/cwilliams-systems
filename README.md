@@ -8,8 +8,8 @@ CUDA/GPU programming (learning and upcoming projects)
 Computer architeture and performance optimization
 
 Projects(in-progress):
-ML Accelerator(CUDA-based) Summer 2026
-GPU Kernel Optimization Library
+CUDA-based ML Accelerator (Summer 2026) and
+GPU Kernel Optimization Library (Summer 2027)
 
 Coursework:
 Data Structures & Algorithms (C++)
@@ -17,8 +17,8 @@ Calculus & Physics (building foundation for engineering work)
 Computer Science fundamentals
 
 Goals:
-Transfer into Computer Science at Colorado School of Mines
-Specialize in systems / GPU / ML infrastructure
+Transfer into Computer Science at Colorado School of Mines,
+Specialize in systems / GPU / ML infrastructure and 
 Intern in high-performance computing (NVIDIA target)
 
 LinkedIn profile: https://www.linkedin.com/in/christopher-williams-717526319/
